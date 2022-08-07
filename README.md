@@ -7,6 +7,8 @@ Next year (2023), I will change my laptop to MacBook, and this repo is my prepar
 
 
 
+Check my github star list [here](https://github.com/stars/sonderlau/lists/macos)
+
 
 
 ## App
@@ -21,7 +23,6 @@ Next year (2023), I will change my laptop to MacBook, and this repo is my prepar
 - Rayon
 - DevToysMac
 - Clover
-
 - Rayons
 - Numi
 - iGlance
@@ -48,3 +49,17 @@ Next year (2023), I will change my laptop to MacBook, and this repo is my prepar
 - Numi
 - Loop back
 - XMind
+- Amphetamine
+- https://vytal.io/
+- https://arctype.com/
+- MD Vinyl
+- https://insomnia.rest/
+- https://httpie.io/
+- https://weechat.org/
+- https://aegi.vmoe.info/
+- https://lunar.fyi/
+- https://ezip.awehunt.com/
+- https://www.mowglii.com/itsycal/
+- https://mos.caldis.me/
+- https://www.bernhard-baehr.de/
+- https://rustdesk.com/zh/
